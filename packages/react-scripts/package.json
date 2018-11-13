@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.1",
+  "name": "@dajk/react-scripts",
+  "version": "0.1.0-alpha.0",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebook/create-react-app",
+  "repository": "dajk/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/dajk/create-react-app/issues"
   },
   "files": [
     "bin",
@@ -65,6 +65,7 @@
     "resolve": "1.8.1",
     "sass-loader": "7.1.0",
     "style-loader": "0.23.0",
+    "styled-components": "^4.1.1",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "1.1.1",
     "webpack": "4.19.1",
